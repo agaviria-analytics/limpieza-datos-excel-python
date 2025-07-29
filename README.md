@@ -9,14 +9,14 @@ Este proyecto demuestra un flujo completo de limpieza de un archivo Excel sucio 
 
 ```
 practica_python/
-├── limpieza_datos.py         # Script principal de limpieza
-├── utils.py                  # Función personalizada para fechas robustas
-├── ventas_sucias.xlsx        # Archivo original sucio
+├── limpieza_datos.py                     # Script principal de limpieza
+├── utils.py                              # Función personalizada para fechas robustas
+├── ventas_sucias.xlsx                    # Archivo original sucio
 ├── output/
-│   ├── ventas_limpias.xlsx           # Archivo limpio exportado
+│   ├── ventas_limpias.xlsx               # Archivo limpio exportado
 │   ├── grafico_ventas_por_producto.png
 │   └── grafico_torta_ventas_ciudad.png
-├── paquetes.txt              # Librerías requeridas
+├── paquetes.txt                          # Librerías requeridas
 ```
 
 ---
