@@ -157,7 +157,7 @@ Esto permite:
 
 ## 📝 Conclusiones
 
-- La mayor participación de ventas corresponde a Medellín (36.6%)
+- La mayor participación de ventas corresponde a Medellín (44.2%)
 - “Pastilla Freno” es el producto más vendido, seguido por “Disco Freno”
 - Hay registros sin categoría (“sin dato”) que requieren revisión por parte del área de origen
 
